@@ -11,12 +11,12 @@ import java.util.List;
 public class DynamicContent {
     private WebDriver driver;
     private By avatars;
-    private By descriptions;
 
     public DynamicContent(WebDriver driver) {
         this.driver = driver;
         avatars = By.xpath("//img[contains(@src, 'Original-Facebook-Geek-Profile-Avatar')]");
         descriptions = By.xpath("//div[@class='large-10 columns']");
+
     }
 
     public List<WebElement> getAvatars() {
