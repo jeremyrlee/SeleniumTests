@@ -36,5 +36,4 @@ public class TestDisappearingElements {
         dElementsPage.clickGallery();
         Assert.assertEquals("https://the-internet.herokuapp.com/gallery/", driver.getCurrentUrl());
     }
-
 }

@@ -29,5 +29,4 @@ public class TestAuthentication {
         loginPage.login("tomsmith", "SuperSecretPassword!");
         Assert.assertEquals("https://the-internet.herokuapp.com/secure", driver.getCurrentUrl());
     }
-
 }

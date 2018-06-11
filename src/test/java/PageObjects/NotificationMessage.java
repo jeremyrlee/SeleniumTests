@@ -25,12 +25,4 @@ public class NotificationMessage {
             return false;
         }
     }
-
-    public boolean isActionSuccessful() {
-        return driver.findElement(notification).getText().equals("Action successful ");
-    }
-
-    public boolean isActionUnsuccessful() {
-        return driver.findElement(notification).getText().equals(" Action unsuccesful, please try again ");
-    }
 }

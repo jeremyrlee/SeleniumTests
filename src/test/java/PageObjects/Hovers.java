@@ -7,14 +7,10 @@ import org.openqa.selenium.interactions.Actions;
 public class Hovers {
     private WebDriver driver;
     private By profilePic1;
-    private By profilePic2;
-    private By profilePic3;
 
     public Hovers(WebDriver driver) {
         this.driver = driver;
         profilePic1 = By.className("figure");
-        profilePic2 = By.xpath("(//div[@class='figure'])[2]");
-        profilePic3 = By.xpath("(//div[@class='figure'])[3]");
     }
 
     public void mouseoverPic1() {
