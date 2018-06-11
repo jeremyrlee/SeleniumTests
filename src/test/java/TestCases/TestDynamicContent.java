@@ -28,4 +28,7 @@ public class TestDynamicContent {
     public void forThreeAvatars() {
         Assert.assertEquals(3, dynamicPage.getAvatars().size());
     }
+
+    @Test
+    public void forThreeDescriptions() { Assert.assertEquals(3, dynamicPage.getDescriptions().size()); }
 }
