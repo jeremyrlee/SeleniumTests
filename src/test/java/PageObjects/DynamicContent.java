@@ -11,6 +11,7 @@ import java.util.List;
 public class DynamicContent {
     private WebDriver driver;
     private By avatars;
+    private By descriptions;
 
     public DynamicContent(WebDriver driver) {
         this.driver = driver;
