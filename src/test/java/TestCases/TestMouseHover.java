@@ -29,6 +29,11 @@ public class TestMouseHover {
     public void hoverOverFirstPicture() {
         hoverPage.mouseoverPic1();
         Assert.assertTrue(driver.findElement(By.className("figcaption")).isDisplayed());
+    }
 
+    @Test
+    public void validateUser1Name() {
+        hoverPage.mouseoverPic1();
+        Assert.assertEquals("user1", hoverPage.getUser1Name());
     }
 }
