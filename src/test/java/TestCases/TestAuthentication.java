@@ -5,6 +5,7 @@ import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
@@ -30,4 +31,9 @@ public class TestAuthentication {
         Assert.assertEquals("https://the-internet.herokuapp.com/secure", driver.getCurrentUrl());
     }
 
+    @Test
+    public void withInvalidCredentials() {
+        loginPage.login("wrong", "password");
+        Assert.assertTrue(driver.findElement(By.cssSelector("#flash.flash.error")).isDisplayed());
+    }
 }
