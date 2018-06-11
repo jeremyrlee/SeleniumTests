@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf2edc56-4982-4800-936f-72cc2f806e11" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../SynackTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SynackTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SynackTest/src/test/java/PageObjects/DynamicContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SynackTest/src/test/java/PageObjects/DynamicContent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SynackTest/src/test/java/PageObjects/Hovers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SynackTest/src/test/java/PageObjects/Hovers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SynackTest/src/test/java/PageObjects/NotificationMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SynackTest/src/test/java/PageObjects/NotificationMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SynackTest/src/test/java/TestCases/TestAuthentication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SynackTest/src/test/java/TestCases/TestAuthentication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SynackTest/src/test/java/TestCases/TestDisappearingElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SynackTest/src/test/java/TestCases/TestDisappearingElements.java" afterDir="false" />
-    </list>
+    <list default="true" id="bf2edc56-4982-4800-936f-72cc2f806e11" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,31 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestAuthentication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../SynackTest/src/test/java/TestCases/TestAuthentication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestDisappearingElements.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../SynackTest/src/test/java/TestCases/TestDisappearingElements.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hovers.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Hovers.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../SynackTest/src/test/java/PageObjects/Hovers.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -551,35 +520,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SynackTest/src/test/java/TestCases/TestDynamicContent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../SynackTest/src/test/java/TestCases/TestMessageRendered.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../SynackTest/src/test/java/TestCases/TestMouseHover.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../SynackTest/src/test/java/PageObjects/DynamicContent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -620,16 +560,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SynackTest/src/test/java/PageObjects/Hovers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../SynackTest/src/test/java/TestCases/TestAuthentication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -644,6 +574,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SynackTest/src/test/java/TestCases/TestDynamicContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SynackTest/src/test/java/TestCases/TestMessageRendered.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SynackTest/src/test/java/TestCases/TestMouseHover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SynackTest/src/test/java/PageObjects/Hovers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
